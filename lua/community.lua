@@ -7,6 +7,7 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.icon.mini-icons" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.colorscheme.gruvbox-nvim" },
   { import = "astrocommunity.color.ccc-nvim" },
   { import = "astrocommunity.pack.typescript" },
