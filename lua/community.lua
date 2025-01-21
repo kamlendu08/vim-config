@@ -9,7 +9,7 @@ return {
   { import = "astrocommunity.icon.mini-icons" },
   { import = "astrocommunity.colorscheme.gruvbox-nvim" },
   { import = "astrocommunity.color.ccc-nvim" },
-  { import = "astrocommunity.pack.typescript-all-in-one" },
+  { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.file-explorer.telescope-file-browser-nvim" },
   -- import/override with your plugins folder
